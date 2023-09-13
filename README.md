@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Salut 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Salut 👋, Bienvenue sur mon profil</h1></summary>
   </ul>
 </div>
 
@@ -20,13 +20,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Titre sympa</h2></summary>
+    <summary><h2 style="display: inline-block">Introduction</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 Je réalise des projets en utilisant **NodeJS, PHP, PostgreSQL**
+- 🔭 Je réalise des projets en utilisant **NodeJS, PHP, PostgreSQL, Java et plus**
 
 - 🌱 Etudiant à l'université **Sorbonne Paris Nord**
 
@@ -37,7 +37,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Les technologies que je connais 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -49,7 +49,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Contactez moi ! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aymen-alloune-885389227/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AymenShe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
