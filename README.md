@@ -1,11 +1,10 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Salut 👋, Bienvenue sur mon profil</h1></summary>
+    <summary><h1 style="display: inline-block">Bienvenue sur mon profil 👋 </h1></summary>
   </ul>
 </div>
 
@@ -50,8 +49,14 @@
 
 
 <h2> Contactez moi ! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <a href = 'https://www.linkedin.com/in/aymen-alloune-885389227/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+<br/>
+
 <a href = 'https://www.github.com/AymenShe'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant) & [Aditya Deshmukh](https://github.com/Aditya664)
